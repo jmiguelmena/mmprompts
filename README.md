@@ -36,6 +36,13 @@
 > **Prompt:**  
 > Actúa como un experto en **(tema)**. Mi objetivo es aprender **(habilidad)** lo más rápido posible. Haz una lista con las cosas más importantes que debo saber para dominar este tema.
 
+### 9. Trabajo Remoto
+> **Prompt:**
+> Prompt: Actúa como experto en productividad para equipos remotos y estratega en colaboración asíncrona. Ayúdame a encontrar hacks de productividad que realmente funcionen para equipos que trabajan desde diferentes lugares y en horarios distintos. Sugiere estrategias
+> tanto individuales como en equipo para mejorar el enfoque, la responsabilidad, la comunicación y los resultados. Incluye una combinación de herramientas, flujos de trabajo y técnicas fáciles de aplicar. 
+> Recomiéndame formas de evitar la fatiga de tantas videollamadas, cómo mantener motivado al equipo a distancia y cómo fortalecer la cultura aunque cada quien esté desde su casa.
+> Dame también algunos tips creativos que usen empresas que ya son 100% remotas y que les funcionen bien. Y cierra con una checklist semanal de productividad que podamos implementar. Si se puede, incluye una idea para hacer el día laboral más alegre o conectar más entre > nosotros, aunque sea por Slack.
+
 ## 🚀 Cómo usar estos prompts
 
 1. Sustituye las palabras entre paréntesis `()` con el tema o término que deseas explorar.
