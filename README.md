@@ -43,7 +43,7 @@
 > Recomiéndame formas de evitar la fatiga de tantas videollamadas, cómo mantener motivado al equipo a distancia y cómo fortalecer la cultura aunque cada quien esté desde su casa.
 > Dame también algunos tips creativos que usen empresas que ya son 100% remotas y que les funcionen bien. Y cierra con una checklist semanal de productividad que podamos implementar. Si se puede, incluye una idea para hacer el día laboral más alegre o conectar más entre > nosotros, aunque sea por Slack.
 
-> ### 10. Foto blanco y Negro Hiper-realista
+### 10. Foto blanco y Negro Hiper-realista
 > **Prompt:**
 > Retrato fotográfico hiperrealista en blanco y negro, íntimo y dramático. Primer plano de un sujeto con mirada serena y profunda con el rostro claro sin nada que lo cubra, directamente a cámara. Iluminación low-key de alto contraste: luz suave y dirigida ilumina el
 > lado derecho del rostro, acentuando la textura de la piel y el brillo en los ojos; los ojos deben de ver completamente sin que la sombra los opaque, el lado opuesto se desvanece en sombras profundas, Fondo completamente negro y sólido. La imagen debe evocar quietud,
